@@ -1,0 +1,129 @@
+.packages {
+  padding-top: 120px;
+  font-family: Poppins, sans-serif;
+}
+.package_head_big_text {
+  font-weight: 600;
+  font-size: 80px;
+  line-height: 94px;
+  color: black;
+}
+.package_head_big_text2 {
+  color: #23ce6b;
+  margin-bottom: 30px;
+}
+.package_head_small_text {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 40px;
+  color: black;
+  margin-bottom: 40px;
+}
+.packages_main {
+  width: 100%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.packages_main2 {
+  width: 100%;
+  padding: 35px 10px;
+  text-align: center;
+  background: white;
+  box-shadow: 4px 4px 25px -2px rgba(0, 0, 0, 0.22);
+
+  border-radius: 10px;
+}
+.main_text1 {
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 42px;
+  margin-bottom: 23px;
+}
+.main_text2 {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 40px;
+  margin-bottom: 20px;
+}
+
+.packages_btn{
+  margin-top: 20px;
+  display: inline-block;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 4px;
+  font-family: Poppins, sans-serif;
+  font-size: 15px;
+  color: #fafafa;
+  text-align: center;
+  overflow: hidden;
+  text-decoration: none;
+  font-weight: 500;
+  -webkit-transition: all 0.3s;
+  transition: transform 0.3s;
+  outline: none;
+  background: #23ce6b;
+}
+.packages_btn:hover {
+  margin-top: 17px;
+  background: #23ce6b;
+  margin-bottom: 3px;
+ 
+}
+.packages_faq {
+  width: 100%;
+  padding-left: 5%;
+  padding-right: 5%;
+  margin-top: 100px;
+}
+.faq_heading {
+  margin: 10px 0;
+  font-size: 30px;
+  font-weight: 600;
+  display: flex;
+  justify-content: flex-start;
+  color: black;
+}
+.faq_accordion{
+  width: 100%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border: 2px solid #e5e5e5;
+  border-radius: 10px;
+
+
+}
+.faq_style{
+  margin-left: 7px;
+}
+.faq_userSide {
+
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  font-size: 20px;
+  border: none;
+  /* display: flex;
+  align-items: center; */
+  cursor: pointer;
+  display: flex;
+  
+}
+
+.main_faq_continer{
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid #e5e5e5;
+}
+.faq_text {
+  color: #444;
+  padding: 25px;
+  text-align: left;
+  line-height: 25px;
+  font-size: 19px;
+  font-weight: 400;
+ 
+}
+
